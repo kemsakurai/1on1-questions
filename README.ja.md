@@ -3,51 +3,51 @@ Ultimate list compiled from a variety to sources
 
 
 ## About Manager
-* Are there any obstacles I can remove for you?
 * As your manager, what would you like me to stop, start, or continue doing?
 * At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
-* Do you feel you’re getting enough feedback? Why/why not?
 * Do you have any feedback for me?
 * Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
-* How can I better support you?
-* How can I make your days more fulfilling?
 * How could I do a better job communicating with you?
-* How do you prefer to receive feedback?
 * How might I make this project more challenging or interesting for you?
 * I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
-* If you were me, what changes would you make?
 * I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
 * I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
 * What additional resources can I provide for you between now and the next time we meet?
 * What are your impressions of our 1-on-1s? What could we do differently or better?
-* What are your thoughts on my changes?
-* What aspect of your job you would like more help or coaching?
-* What aspects of your work would you like more or less direction from me?
-* What can I be doing better to help you in your job?
 * What can I do as a manager to make your work easier?
 * What can I do better or differently as your manager to support you?
 * What can I do for you that I'm not?
 * What can I do to help remove obstacles?
-* What can I do to help you achieve you current goals and priorities?
 * What can I do to help you enjoy your work more or remove roadblocks to progress?
 * What can I do to help you?
-* What can I do to make things more manageable?
 * What can I do to make your job easier?
-* What could I do as a manager to make your work easier?
-* What do you like about my management style? What do you dislike?
 * What do you think I should know about the project, but might not?
-* What have your past managers done that you’d like me to also do or not do?
-* What is something I could do better? What feedback do you have for me?
 * What is something I could have done better? What are the situations that I could have helped more but didn’t?
 * What is the biggest challenge you are currently facing? How can I help with that?
 * What is the one thing that you need the most from me?
 * What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
-* What would you like to know about me?
 * What would you like to see change about these discussions? How could we make them more useful for you?
-* What’s your favorite thing I do as a manager of this team I should keep doing?
-* Where do you think I can be most helpful?
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
+* あなたがより多くの助けやコーチングを望む業務は何ですか?
+* あなたが私だったら、あなたは何を変えますか?
+* あなたのために取り除くことができる障害はありますか?
+* あなたの仕事であなたを助けるために私がもっとうまくできることはありますか?
+* あなたの仕事を簡単にするためにマネージャーとして何ができますか?
+* あなたの過去のマネージャーはやっていて私にもやって欲しいこと、もしくは私にはやって欲しくないことはありますか?
+* このチームのマネージャーとして私がやるべきことは何ですか?
+* どうすればあなたの日々をもっと充実させることができますか?
+* どうすればあなたをよりよくサポートできますか?
+* どこで私が最も役立つと思いますか?
+* どのようにフィードバックを受け取りたいですか?
+* もっと良くできることは何ですか? 私にどんなフィードバックがありますか?
+* 十分なフィードバックを得ていると思いますか? なぜ得ていると思うのか/なぜ得ていないと思うのか?
+* 物事をより管理しやすくするために何ができますか?
+* 現在の目標と優先事項を達成するために何ができますか?
+* 私からの指示を望む業務はありますか?
+* 私について何か知りたいことはありますか?
+* 私の変化についてどう思いますか?
+* 私の管理スタイルについて何が好きですか? 何が嫌いですか?
 
 
 ## Career development
@@ -349,11 +349,6 @@ Ultimate list compiled from a variety to sources
 
 
 ## Contributing 
-1. Fork it
-2. Run `npm install`
-3. Add your resource to `questions.json`
-4. Run `node index` to update `README.md` with your changes
-5. Create your feature branch (`git checkout -b my-new-feature`)
-6. Commit your changes (`git commit -am "Add some feature"`)
-7. Push to the branch (`git push origin my-new-feature`)
-8. Create new Pull Request
+1. フォークします
+2. 1on1の質問を`README.md` と `questions.json` に追加します
+3. 新しいプルリクエストを作成します

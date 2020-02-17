@@ -1,8 +1,15 @@
+const args = process.argv.slice(2);    
+let lang;
+
+if (args === undefined || args.length == 0) {
+  lang = "en";
+} else {
+  lang = args[0];
+}
 const fs = require('fs');
-const obj = require('./questions.json');
+let obj = require(getFileNameByLang(lang, ['./questions','json']));
 
 const categoryMap = {};
-
 for (const item of obj) {
   if (categoryMap[item.category]) {
     categoryMap[item.category].push(item);
@@ -12,8 +19,12 @@ for (const item of obj) {
   }
 }
 
-let content = ['# 1 on 1 Questions\nUltimate list compiled from a variety to sources']
-
+let content = [];
+let headers = {
+  "en": ['# 1 on 1 Questions\nUltimate list compiled from a variety to sources'],
+  "ja": ['# 1 on 1 Questions\nUltimate list compiled from a variety to sources']
+}
+content.push(headers[lang]);
 for (const [key, items] of Object.entries(categoryMap)) {
   content.push(`\n\n## ${key}`)
 
@@ -38,18 +49,30 @@ for (const [key, items] of Object.entries(categoryMap)) {
 }
 
 // create contributing instructions
-content.push('\n\n## Contributing \n' +
-'1. Fork it\n' +
-'2. Run `npm install`\n' +
-'3. Add your resource to `questions.json`\n' +
-'4. Run `node index` to update `README.md` with your changes\n' +
-'5. Create your feature branch (`git checkout -b my-new-feature`)\n' +
-'6. Commit your changes (`git commit -am "Add some feature"`)\n' +
-'7. Push to the branch (`git push origin my-new-feature`)\n' +
-'8. Create new Pull Request\n');
+let contributingInstructions = {
+  "en": ['\n\n## Contributing \n' +
+  '1. Fork it\n' +
+  '2. Add your resource to `README.md` and `questions.json`\n' + 
+  '3. Create new Pull Request\n'],
+  "ja": ['\n\n## Contributing \n' +
+  '1. フォークします\n' +
+  '2. 1on1の質問を`README.md` と `questions.json` に追加します\n' + 
+  '3. 新しいプルリクエストを作成します\n']
+}
+
+content.push(contributingInstructions[lang]);
 
 // create README file
-fs.writeFile('./README.md', content.join('\n'), function (err) {
+let readMe = getFileNameByLang(lang, ['README','md']);
+fs.writeFile('./' + readMe, content.join('\n'), function (err) {
   if (err) throw err;
-  console.log('Updated README.md');
+  console.log('Updated ' + readMe);
 });
+
+function getFileNameByLang(lang, fileNameParts) {
+  if(lang == "en") {
+    return fileNameParts.join('.');
+  } 
+  fileNameParts.splice(1, 0, lang);
+  return fileNameParts.join('.');
+}
