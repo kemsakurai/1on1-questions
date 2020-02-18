@@ -3,51 +3,51 @@ Ultimate list compiled from a variety to sources
 
 
 ## About Manager
+* 1対1の印象はどうですか? 私たちは何が違うまたはより良いことができますか?
 * As your manager, what would you like me to stop, start, or continue doing?
-* At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
 * Do you have any feedback for me?
-* Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
 * How could I do a better job communicating with you?
-* How might I make this project more challenging or interesting for you?
-* I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
-* I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
-* I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
-* What additional resources can I provide for you between now and the next time we meet?
-* What are your impressions of our 1-on-1s? What could we do differently or better?
 * What can I do as a manager to make your work easier?
 * What can I do better or differently as your manager to support you?
 * What can I do for you that I'm not?
 * What can I do to help remove obstacles?
-* What can I do to help you enjoy your work more or remove roadblocks to progress?
 * What can I do to help you?
 * What can I do to make your job easier?
-* What do you think I should know about the project, but might not?
 * What is something I could have done better? What are the situations that I could have helped more but didn’t?
-* What is the biggest challenge you are currently facing? How can I help with that?
 * What is the one thing that you need the most from me?
 * What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
-* What would you like to see change about these discussions? How could we make them more useful for you?
-* Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
 * あなたがより多くの助けやコーチングを望む業務は何ですか?
 * あなたが私だったら、あなたは何を変えますか?
 * あなたのために取り除くことができる障害はありますか?
 * あなたの仕事であなたを助けるために私がもっとうまくできることはありますか?
+* あなたの仕事に関して、私からどの部分に指示を出すのが良いですか?
 * あなたの仕事を簡単にするためにマネージャーとして何ができますか?
 * あなたの過去のマネージャーはやっていて私にもやって欲しいこと、もしくは私にはやって欲しくないことはありますか?
 * このチームのマネージャーとして私がやるべきことは何ですか?
+* このプロジェクトについて私が知っておくべきことは何だと思いますか?
+* このプロジェクトをより挑戦的または興味深いものにするにはどうすればよいですか?
+* これらの議論について何が変わりますか? どうすればこれらの議論をあなたにとってより良い機会にすることができますか?
 * どうすればあなたの日々をもっと充実させることができますか?
 * どうすればあなたをよりよくサポートできますか?
 * どこで私が最も役立つと思いますか?
 * どのようにフィードバックを受け取りたいですか?
 * もっと良くできることは何ですか? 私にどんなフィードバックがありますか?
+* 今から次回会うまでに、私はどのようなサポートができますか?
+* 仕事をもっと楽しんだり、進行を妨げる障害を取り除いたりするにはどうすればよいですか?
+* 十分なフィードバックを受け取っていると思いますか? フィードバックはあなたの個人的な発展に役立ちますか? 必要なフィードバックを得るために私に何ができますか?
 * 十分なフィードバックを得ていると思いますか? なぜ得ていると思うのか/なぜ得ていないと思うのか?
 * 物事をより管理しやすくするために何ができますか?
 * 現在の目標と優先事項を達成するために何ができますか?
+* 現在直面している最大の課題は何ですか? どうすればそれを支援できますか?
 * 私からの指示を望む業務はありますか?
+* 私たちの最後の何回かの1対1がかなり上っ面だけでコミュニケーションしていることに気づきました。 この会議の印象はどうですか? 私たちは何か違うことか、より良いことができますか?
 * 私について何か知りたいことはありますか?
 * 私の変化についてどう思いますか?
 * 私の管理スタイルについて何が好きですか? 何が嫌いですか?
+* 私は1on1を改善しようとしていますが、1on1に関するあなたの正直なフィードバックに感謝します。あなたは1on1について何が好きで、何が改善できると思いますか?
+* 私はマネージャーとして改善したいと思っていて。本当にあなたには助けになっています。来週、私はあなたのマネージャーとしてより良くできると思う1つから2つのことについて、いくつかのフィードバックするとしたら受け入れてくれますか?
+* 過去1週間のどの時点で、仕事に最も不満を感じていましたか? それを管理するために何ができますか?
 
 
 ## Career development
