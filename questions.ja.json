@@ -211,7 +211,7 @@
   },
   {
     "id": 337,
-    "question": "1対1の印象はどうですか? 私たちは何が違うまたはより良いことができますか?",
+    "question": "1on1の印象はどうですか? 私たちは何が違うまたはより良いことができますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.045Z",
     "updated_at": "2017-11-18T14:26:14.045Z"
@@ -225,252 +225,252 @@
   },
   {
     "id": 339,
-    "question": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
+    "question": "もっとコーチングを受けたいですか? あなたの仕事のどの側面で、より多くの助けとコーチングを求めますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.051Z",
     "updated_at": "2017-11-18T14:26:14.051Z"
   },
   {
     "id": 340,
-    "question": "What can I do as a manager to make your work easier?",
+    "question": "あなたの仕事をより簡単にするために私はマネージャーとして何ができますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.062Z",
     "updated_at": "2017-11-18T14:26:14.062Z"
   },
   {
     "id": 341,
-    "question": "What is the percentage of my involvement in your daily tasks? Would you prefer more or less?",
+    "question": "日々の仕事に私が関わっている割合はどのくらいですか? 多かれ少なかれ好ましいですか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.065Z",
     "updated_at": "2017-11-18T14:26:14.065Z"
   },
   {
     "id": 343,
-    "question": "What is something I could have done better? What are the situations that I could have helped more but didn\u2019t?",
+    "question": "もっと良くできたはずのことは何ですか? もっと助けられたかもしれないが、助けられなかった状況は何ですか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.082Z",
     "updated_at": "2017-11-18T14:26:14.082Z"
   },
   {
     "id": 344,
-    "question": "What can I do to help you?",
+    "question": "あなたを助けるために私にできること?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.084Z",
     "updated_at": "2017-11-18T14:26:14.084Z"
   },
   {
     "id": 345,
-    "question": "What is the one thing that you need the most from me?",
+    "question": "あなたが私から最も必要とするものは何ですか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.087Z",
     "updated_at": "2017-11-18T14:26:14.087Z"
   },
   {
     "id": 346,
-    "question": "As your manager, what would you like me to stop, start, or continue doing?",
+    "question": "あなたのマネージャーとして、私が止めるべきこと、始めるべきこと、続けるべきことは何ですか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.090Z",
     "updated_at": "2017-11-18T14:26:14.090Z"
   },
   {
     "id": 347,
-    "question": "What can I do to help remove obstacles?",
+    "question": "障害を取り除くために何ができますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.102Z",
     "updated_at": "2017-11-18T14:26:14.102Z"
   },
   {
     "id": 348,
-    "question": "Do you have any feedback for me?",
+    "question": "私にフィードバックはありますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.105Z",
     "updated_at": "2017-11-18T14:26:14.105Z"
   },
   {
     "id": 350,
-    "question": "What can I do to make your job easier?",
+    "question": "あなたの仕事を楽にするために何ができますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.121Z",
     "updated_at": "2017-11-18T14:26:14.121Z"
   },
   {
     "id": 352,
-    "question": "What can I do for you that I'm not?",
+    "question": "私ではなくあなたのために、私は何ができますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.128Z",
     "updated_at": "2017-11-18T14:26:14.128Z"
   },
   {
     "id": 355,
-    "question": "What can I do better or differently as your manager to support you?",
+    "question": "マネージャーとしてあなたをサポートするために、私は何がより良くできますか? それとも何か違うことができますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.146Z",
     "updated_at": "2017-11-18T14:26:14.146Z"
   },
   {
     "id": 356,
-    "question": "How could I do a better job communicating with you?",
+    "question": "どうすればあなたとのコミュニケーションを改善できますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.149Z",
     "updated_at": "2017-11-18T14:26:14.149Z"
   },
   {
     "id": 357,
-    "question": "What do you want to be doing in 5 years? 10 years? 3 years?",
+    "question": "3年、5年、10年で何をしたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.152Z",
     "updated_at": "2017-11-18T14:26:14.152Z"
   },
   {
     "id": 358,
-    "question": "What are your long term goals? Have you thought about them?",
+    "question": "長期的な目標は何ですか？それらについて考えましたか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.155Z",
     "updated_at": "2017-11-18T14:26:14.155Z"
   },
   {
     "id": 359,
-    "question": "What are your super powers? What powers would you like to develop?",
+    "question": "あなたの強みはは何ですか？ どんな強みを身につけたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.166Z",
     "updated_at": "2017-11-18T14:26:14.166Z"
   },
   {
     "id": 360,
-    "question": "What do you want to do in your next job?",
+    "question": "次の仕事で何をしたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.171Z",
     "updated_at": "2017-11-18T14:26:14.171Z"
   },
   {
     "id": 361,
-    "question": "What skills would you like to develop right now?",
+    "question": "今、どんなスキルを伸ばしたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.175Z",
     "updated_at": "2017-11-18T14:26:14.175Z"
   },
   {
     "id": 362,
-    "question": "What additional training or education would you like?",
+    "question": "他にどのようなトレーニングや教育が必要ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.186Z",
     "updated_at": "2017-11-18T14:26:14.186Z"
   },
   {
     "id": 363,
-    "question": "Do you feel like you\u2019re making progress on your big goals here? Why or why not?",
+    "question": "ここで大きな目標を達成していると感じますか?なぜですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.189Z",
     "updated_at": "2017-11-18T14:26:14.189Z"
   },
   {
     "id": 364,
-    "question": "What\u2019s one thing we could do today to help you with your long term goals?",
+    "question": "長期的な目標を達成するために今日できることは何ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.192Z",
     "updated_at": "2017-11-18T14:26:14.192Z"
   },
   {
     "id": 365,
-    "question": "Do you feel we\u2019re helping you advance your career at a pace you would like?",
+    "question": "あなたが望むペースであなたのキャリアを伸ばすのを助けていると思いますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.203Z",
     "updated_at": "2017-11-18T14:26:14.203Z"
   },
   {
     "id": 366,
-    "question": "What are your big dreams in life? Are you making progress on them?",
+    "question": "あなたの人生の大きな夢は何ですか?あなたはそれらを進歩させていますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.205Z",
     "updated_at": "2017-11-18T14:26:14.205Z"
   },
   {
     "id": 367,
-    "question": "Could you see yourself making progress on more of your goals here? What would need to change to do so?",
+    "question": "ここで自分の目標をさらに進めることができますか？そのためには何を変更する必要がありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.208Z",
     "updated_at": "2017-11-18T14:26:14.208Z"
   },
   {
     "id": 369,
-    "question": "Are there any events or training you\u2019d like to attend to help you grow your skills?",
+    "question": "スキルを伸ばすために参加したいイベントやトレーニングはありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.222Z",
     "updated_at": "2017-11-18T14:26:14.222Z"
   },
   {
     "id": 370,
-    "question": "Who in the company would you like to learn from? What do you want to learn?",
+    "question": "社内の誰から学びたいですか?何を学びたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.225Z",
     "updated_at": "2017-11-18T14:26:14.225Z"
   },
   {
     "id": 371,
-    "question": "What can you do to take action or make progress on what we talked about today?",
+    "question": "本日お話しした内容を実行したり、進展させたりするにはどうすればよいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.237Z",
     "updated_at": "2017-11-18T14:26:14.237Z"
   },
   {
     "id": 372,
-    "question": "What can I do to take action or make progress on what we talked about today?",
+    "question": "今日話したことを行動に移したり、進歩させたりするにはどうすればよいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.239Z",
     "updated_at": "2017-11-18T14:26:14.239Z"
   },
   {
     "id": 373,
-    "question": "Where do you see your career in the next (2\/5\/10) years?",
+    "question": "今後（2/5/10）年のあなたのキャリアをどのポジションで見ますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.242Z",
     "updated_at": "2017-11-18T14:26:14.242Z"
   },
   {
     "id": 374,
-    "question": "What work are you doing here that you feel is most in line with your long term goals?",
+    "question": "ここで、あなたが長期目標に最も近いと感じる仕事は何ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.253Z",
     "updated_at": "2017-11-18T14:26:14.253Z"
   },
   {
     "id": 375,
-    "question": "What skills are required to reach your goals?",
+    "question": "目標を達成するにはどのようなスキルが必要ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.256Z",
     "updated_at": "2017-11-18T14:26:14.256Z"
   },
   {
     "id": 376,
-    "question": "What are some of the work projects you\u2019re most proud of, and what do you think you might want to do next?",
+    "question": "あなたが最も誇りに思っている仕事のプロジェクトは何ですか?また、次に何をしたいと思いますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.259Z",
     "updated_at": "2017-11-18T14:26:14.259Z"
   },
   {
     "id": 377,
-    "question": "What are two to three new skills you\u2019d like to learn on the job? What about those skills interests you?",
+    "question": "仕事で学びたい2〜3の新しいスキルは何ですか?興味のあるスキルはどうですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.272Z",
     "updated_at": "2017-11-18T14:26:14.272Z"
   },
   {
     "id": 378,
-    "question": "What other roles here could you see yourself in down the line? Or what areas would you like to explore?",
+    "question": "この会社で主業務以外にどのような役割を果たしていますか? または、どの領域のスキルを身に付けたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.275Z",
     "updated_at": "2017-11-18T14:26:14.275Z"
   },
   {
     "id": 379,
-    "question": "If you were to create your ideal position, how would it differ from what you are currently doing?",
+    "question": "理想的なポジションを確率する場合、現在行っていることとどのように違いますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.278Z",
     "updated_at": "2017-11-18T14:26:14.278Z"
   },
   {
     "id": 380,
-    "question": "How is your current work helping or hurting your professional development?",
+    "question": "あなたの現在の仕事は、あなたの専門能力開発をどのように助けていますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.290Z",
     "updated_at": "2017-11-18T14:26:14.290Z"
