@@ -477,154 +477,154 @@
   },
   {
     "id": 381,
-    "question": "Which career or development goals do you feel like you\u2019re not able to focus on right now?",
+    "question": "今、自分が集中できないと思うキャリアやスキルアップの目標はどれですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.293Z",
     "updated_at": "2017-11-18T14:26:14.293Z"
   },
   {
     "id": 382,
-    "question": "What else can I be doing to help you grow\/advance in your career?",
+    "question": "あなたのキャリアの成長を支援するために他に何ができますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.296Z",
     "updated_at": "2017-11-18T14:26:14.296Z"
   },
   {
     "id": 383,
-    "question": "Imagine it\u2019s two years from now, and things have gone well: What has been your role in that? What does your role look like?",
+    "question": "今から2年後を想像してください、そして、物事はうまくいきました。その中であなたの役割は何でしたか? あなたの役割はどのようなものですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.307Z",
     "updated_at": "2017-11-18T14:26:14.307Z"
   },
   {
     "id": 384,
-    "question": "Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?",
+    "question": "前回の会議以降、長期的な目標について考えたことはありますか? 最近の考えは何ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.310Z",
     "updated_at": "2017-11-18T14:26:14.310Z"
   },
   {
     "id": 385,
-    "question": "Where do you see yourself in three years? Five years?",
+    "question": "3年後、5年後、あなたはどこにいますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.313Z",
     "updated_at": "2017-11-18T14:26:14.313Z"
   },
   {
     "id": 386,
-    "question": "What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?",
+    "question": "次の6か月-12か月で達成したい職業上の目標は何ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.326Z",
     "updated_at": "2017-11-18T14:26:14.326Z"
   },
   {
     "id": 387,
-    "question": "To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?",
+    "question": "目標を特定して明確にするために:何を達成したいですか? あなたはそれを達成するために何をしますか? いつやりますか? 誰が関与する必要がありますか? 結果はいつわかりますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.328Z",
     "updated_at": "2017-11-18T14:26:14.328Z"
   },
   {
     "id": 388,
-    "question": "What about this goal is important to you and what will be different when you achieve the goal?",
+    "question": "この目標はあなたにとって重要であり、目標を達成するとどうなりますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.331Z",
     "updated_at": "2017-11-18T14:26:14.331Z"
   },
   {
     "id": 389,
-    "question": "What sort of progress have you made on the next steps we discussed last time?",
+    "question": "前回議論した次のステップでどのような進展がありましたか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.343Z",
     "updated_at": "2017-11-18T14:26:14.343Z"
   },
   {
     "id": 390,
-    "question": "What development areas do you want to work on in the coming weeks?",
+    "question": "今後数週間で、どの開発分野に取り組みたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.345Z",
     "updated_at": "2017-11-18T14:26:14.345Z"
   },
   {
     "id": 391,
-    "question": "What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)",
+    "question": "Xで進歩するために、次の1on1の前にどのような行動をとりますか? （また、あなたが支援するために取る行動について話し合い、同意します。）",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.348Z",
     "updated_at": "2017-11-18T14:26:14.348Z"
   },
   {
     "id": 392,
-    "question": "During this meeting you\u2019ve mentioned that you\u2019d like to pursue X. What steps can you take toward that before our next 1-on-1?",
+    "question": "この1on1で、Xを追求したいと言いましたが、次の1on1の前に、どのようなステップを踏むことができますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.359Z",
     "updated_at": "2017-11-18T14:26:14.359Z"
   },
   {
     "id": 393,
-    "question": "Have you ever felt undervalued here?",
+    "question": "ここで過小評価されたことはありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.361Z",
     "updated_at": "2017-11-18T14:26:14.361Z"
   },
   {
     "id": 394,
-    "question": "What are the projects you would be interested in working on next?",
+    "question": "次に取り組みたい興味のあるプロジェクトは何ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.365Z",
     "updated_at": "2017-11-18T14:26:14.365Z"
   },
   {
     "id": 396,
-    "question": "How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?",
+    "question": "大きな目標の達成についてどう思いますか? 目標に向かって進むために何をする必要がありますか? 私たちは何を手助けできますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.379Z",
     "updated_at": "2017-11-18T14:26:14.379Z"
   },
   {
     "id": 397,
-    "question": "Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?",
+    "question": "この会社での仕事のどの部分を、長期的な目標に最も関連すると感じますか? 目標に向かって進むために、どのようなプロジェクトに参加したいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.392Z",
     "updated_at": "2017-11-18T14:26:14.392Z"
   },
   {
     "id": 398,
-    "question": "Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?",
+    "question": "仕事で学んでいる気がしますか? 最近学んだ新しいことは何ですか? 学びたい分野は何ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.394Z",
     "updated_at": "2017-11-18T14:26:14.394Z"
   },
   {
     "id": 399,
-    "question": "Do you have the tools you need to reach your goals?",
+    "question": "目標を達成するために必要なツールはありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.397Z",
     "updated_at": "2017-11-18T14:26:14.397Z"
   },
   {
     "id": 400,
-    "question": "How do you think you did on your performance review this year? What do you think the results will be?",
+    "question": "今年のパフォーマンスレビューでどう思いましたか? 結果はどうなると思いますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.408Z",
     "updated_at": "2017-11-18T14:26:14.408Z"
   },
   {
     "id": 401,
-    "question": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?",
+    "question": "1年後、3年後のあなたのキャリアはどこを目標にしますか? これらの目標を確実に達成するために何ができますか? HRとして、これらの目標を達成するためにどのように支援できますか（目標が会社に関連していると仮定した場合）?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.411Z",
     "updated_at": "2017-11-18T14:26:14.411Z"
   },
   {
     "id": 402,
-    "question": "Is there a different way we can develop your skills   outside of traditional training?",
+    "question": "従来のトレーニング以外でスキルを向上させる方法はありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.413Z",
     "updated_at": "2017-11-18T14:26:14.413Z"
   },
   {
     "id": 403,
-    "question": "What would make this your perfect job?",
+    "question": "これがあなたの完璧な仕事になりますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.422Z",
     "updated_at": "2017-11-18T14:26:14.422Z"

@@ -51,62 +51,62 @@ Ultimate list compiled from a variety to sources
 
 
 ## Career development
+* 1年後、3年後のあなたのキャリアはどこを目標にしますか? これらの目標を確実に達成するために何ができますか? HRとして、これらの目標を達成するためにどのように支援できますか（目標が会社に関連していると仮定した場合）?
 * 3年、5年、10年で何をしたいですか?
+* 3年後、5年後、あなたはどこにいますか?
 * Are there any projects you’d really like to work on if you were given the opportunity?
-* Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?
-* Do you have the tools you need to reach your goals?
-* During this meeting you’ve mentioned that you’d like to pursue X. What steps can you take toward that before our next 1-on-1?
-* Have you ever felt undervalued here?
-* Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?
 * How do you feel you are progressing in your career?
-* How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?
-* How do you think you did on your performance review this year? What do you think the results will be?
-* Imagine it’s two years from now, and things have gone well: What has been your role in that? What does your role look like?
-* Is there a different way we can develop your skills   outside of traditional training?
 * Is there an aspect of your job you would like more help or coaching?
 * Tell me about something new you learned since we met last.
-* To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?
-* What about this goal is important to you and what will be different when you achieve the goal?
-* What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)
-* What are the projects you would be interested in working on next?
 * What are your goals (for our group for you personally)
 * What areas of your job do you find difficult that getting better skills at would help?
 * What big questions do you have about your career opportunities in the future?
 * What capabilities do you want to develop?
-* What development areas do you want to work on in the coming weeks?
 * What do you see as the next step in your career?
-* What else can I be doing to help you grow/advance in your career?
 * What goals have you set for your career?
 * What kind of training or experience would be most helpful to you right now?
 * What opportunities have you had recently to learn something new?
 * What parts of your job would you like to deepen your skills in or get additional training in?
-* What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?
 * What skills do you have that you think are underutilized?
-* What sort of progress have you made on the next steps we discussed last time?
-* What would make this your perfect job?
 * What would you like to learn about in the future?
-* Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
-* Where do you see yourself in three years? Five years?
-* Which career or development goals do you feel like you’re not able to focus on right now?
-* Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?
+* Xで進歩するために、次の1on1の前にどのような行動をとりますか? （また、あなたが支援するために取る行動について話し合い、同意します。）
 * あなたが最も誇りに思っている仕事のプロジェクトは何ですか?また、次に何をしたいと思いますか?
 * あなたが望むペースであなたのキャリアを伸ばすのを助けていると思いますか?
+* あなたのキャリアの成長を支援するために他に何ができますか?
 * あなたの人生の大きな夢は何ですか?あなたはそれらを進歩させていますか?
 * あなたの強みはは何ですか？ どんな強みを身につけたいですか?
 * あなたの現在の仕事は、あなたの専門能力開発をどのように助けていますか?
 * ここで、あなたが長期目標に最も近いと感じる仕事は何ですか?
 * ここで大きな目標を達成していると感じますか?なぜですか?
 * ここで自分の目標をさらに進めることができますか？そのためには何を変更する必要がありますか?
+* ここで過小評価されたことはありますか?
+* この1on1で、Xを追求したいと言いましたが、次の1on1の前に、どのようなステップを踏むことができますか?
+* この会社での仕事のどの部分を、長期的な目標に最も関連すると感じますか? 目標に向かって進むために、どのようなプロジェクトに参加したいですか?
 * この会社で主業務以外にどのような役割を果たしていますか? または、どの領域のスキルを身に付けたいですか?
+* この目標はあなたにとって重要であり、目標を達成するとどうなりますか?
+* これがあなたの完璧な仕事になりますか?
 * スキルを伸ばすために参加したいイベントやトレーニングはありますか?
 * 今、どんなスキルを伸ばしたいですか?
+* 今、自分が集中できないと思うキャリアやスキルアップの目標はどれですか?
+* 今から2年後を想像してください、そして、物事はうまくいきました。その中であなたの役割は何でしたか? あなたの役割はどのようなものですか?
+* 今年のパフォーマンスレビューでどう思いましたか? 結果はどうなると思いますか?
+* 今後数週間で、どの開発分野に取り組みたいですか?
 * 今後（2/5/10）年のあなたのキャリアをどのポジションで見ますか?
 * 今日話したことを行動に移したり、進歩させたりするにはどうすればよいですか?
 * 仕事で学びたい2〜3の新しいスキルは何ですか?興味のあるスキルはどうですか?
+* 仕事で学んでいる気がしますか? 最近学んだ新しいことは何ですか? 学びたい分野は何ですか?
 * 他にどのようなトレーニングや教育が必要ですか?
+* 前回の会議以降、長期的な目標について考えたことはありますか? 最近の考えは何ですか?
+* 前回議論した次のステップでどのような進展がありましたか?
+* 大きな目標の達成についてどう思いますか? 目標に向かって進むために何をする必要がありますか? 私たちは何を手助けできますか?
+* 従来のトレーニング以外でスキルを向上させる方法はありますか?
 * 本日お話しした内容を実行したり、進展させたりするにはどうすればよいですか?
+* 次に取り組みたい興味のあるプロジェクトは何ですか?
+* 次の6か月-12か月で達成したい職業上の目標は何ですか?
 * 次の仕事で何をしたいですか?
 * 理想的なポジションを確率する場合、現在行っていることとどのように違いますか?
+* 目標を特定して明確にするために:何を達成したいですか? あなたはそれを達成するために何をしますか? いつやりますか? 誰が関与する必要がありますか? 結果はいつわかりますか?
+* 目標を達成するために必要なツールはありますか?
 * 目標を達成するにはどのようなスキルが必要ですか?
 * 社内の誰から学びたいですか?何を学びたいですか?
 * 長期的な目標は何ですか？それらについて考えましたか?
