@@ -15,7 +15,7 @@ Ultimate list compiled from a variety to sources
 * あなたの仕事を楽にするために何ができますか?
 * あなたの仕事を簡単にするためにマネージャーとして何ができますか?
 * あなたの過去のマネージャーはやっていて私にもやって欲しいこと、もしくは私にはやって欲しくないことはありますか?
-* あなたを助けるために私にできること?
+* あなたを助けるために私にできることはありますか?
 * このチームのマネージャーとして私がやるべきことは何ですか?
 * このプロジェクトについて私が知っておくべきことは何だと思いますか?
 * このプロジェクトをより挑戦的または興味深いものにするにはどうすればよいですか?
@@ -45,35 +45,25 @@ Ultimate list compiled from a variety to sources
 * 私の変化についてどう思いますか?
 * 私の管理スタイルについて何が好きですか? 何が嫌いですか?
 * 私は1on1を改善しようとしていますが、1on1に関するあなたの正直なフィードバックに感謝します。あなたは1on1について何が好きで、何が改善できると思いますか?
-* 私はマネージャーとして改善したいと思っていて。本当にあなたには助けになっています。来週、私はあなたのマネージャーとしてより良くできると思う1つから2つのことについて、いくつかのフィードバックするとしたら受け入れてくれますか?
+* 私はマネージャーとして改善したいと思っていて、本当にあなたには助けになっています。来週、私はあなたのマネージャーとしてより良くできると思う1つから2つのことについて、いくつかのフィードバックするとしたら受け入れてくれますか?
 * 過去1週間のどの時点で、仕事に最も不満を感じていましたか? それを管理するために何ができますか?
 * 障害を取り除くために何ができますか?
 
 
 ## Career development
+* (私たちのグループにとって、もしくは、あなたの個人的な)あなたの目標は何ですか?
 * 1年後、3年後のあなたのキャリアはどこを目標にしますか? これらの目標を確実に達成するために何ができますか? HRとして、これらの目標を達成するためにどのように支援できますか（目標が会社に関連していると仮定した場合）?
 * 3年、5年、10年で何をしたいですか?
 * 3年後、5年後、あなたはどこにいますか?
-* Are there any projects you’d really like to work on if you were given the opportunity?
-* How do you feel you are progressing in your career?
-* Is there an aspect of your job you would like more help or coaching?
-* Tell me about something new you learned since we met last.
-* What are your goals (for our group for you personally)
-* What areas of your job do you find difficult that getting better skills at would help?
-* What big questions do you have about your career opportunities in the future?
-* What capabilities do you want to develop?
-* What do you see as the next step in your career?
-* What goals have you set for your career?
-* What kind of training or experience would be most helpful to you right now?
-* What opportunities have you had recently to learn something new?
-* What parts of your job would you like to deepen your skills in or get additional training in?
-* What skills do you have that you think are underutilized?
-* What would you like to learn about in the future?
 * Xで進歩するために、次の1on1の前にどのような行動をとりますか? （また、あなたが支援するために取る行動について話し合い、同意します。）
 * あなたが最も誇りに思っている仕事のプロジェクトは何ですか?また、次に何をしたいと思いますか?
 * あなたが望むペースであなたのキャリアを伸ばすのを助けていると思いますか?
 * あなたのキャリアの成長を支援するために他に何ができますか?
+* あなたのキャリアの次のステップは何だと思いますか?
+* あなたのキャリアはどのように進んでいると思いますか?
 * あなたの人生の大きな夢は何ですか?あなたはそれらを進歩させていますか?
+* あなたの仕事のどの分野が難しいと思いますか?
+* あなたの仕事の中で、もっと助けやコーチングが必要な面はありますか?
 * あなたの強みはは何ですか？ どんな強みを身につけたいですか?
 * あなたの現在の仕事は、あなたの専門能力開発をどのように助けていますか?
 * ここで、あなたが長期目標に最も近いと感じる仕事は何ですか?
@@ -85,61 +75,71 @@ Ultimate list compiled from a variety to sources
 * この会社で主業務以外にどのような役割を果たしていますか? または、どの領域のスキルを身に付けたいですか?
 * この目標はあなたにとって重要であり、目標を達成するとどうなりますか?
 * これがあなたの完璧な仕事になりますか?
+* どの能力を伸ばしたいですか?
+* キャリアについてどのような目標を設定していますか?
 * スキルを伸ばすために参加したいイベントやトレーニングはありますか?
 * 今、どんなスキルを伸ばしたいですか?
 * 今、自分が集中できないと思うキャリアやスキルアップの目標はどれですか?
 * 今から2年後を想像してください、そして、物事はうまくいきました。その中であなたの役割は何でしたか? あなたの役割はどのようなものですか?
 * 今年のパフォーマンスレビューでどう思いましたか? 結果はどうなると思いますか?
+* 今後、何について学びたいですか?
 * 今後数週間で、どの開発分野に取り組みたいですか?
 * 今後（2/5/10）年のあなたのキャリアをどのポジションで見ますか?
 * 今日話したことを行動に移したり、進歩させたりするにはどうすればよいですか?
 * 仕事で学びたい2〜3の新しいスキルは何ですか?興味のあるスキルはどうですか?
 * 仕事で学んでいる気がしますか? 最近学んだ新しいことは何ですか? 学びたい分野は何ですか?
+* 仕事のどの分野でスキルを深めたり、追加のトレーニングを受けたいですか?
 * 他にどのようなトレーニングや教育が必要ですか?
 * 前回の会議以降、長期的な目標について考えたことはありますか? 最近の考えは何ですか?
 * 前回議論した次のステップでどのような進展がありましたか?
+* 十分に活用されていないと思うスキルはありますか?
 * 大きな目標の達成についてどう思いますか? 目標に向かって進むために何をする必要がありますか? 私たちは何を手助けできますか?
+* 将来のキャリアの機会について、何か大きな懸念はありますか?
 * 従来のトレーニング以外でスキルを向上させる方法はありますか?
+* 最近何か新しいことを学ぶ機会はありましたか?
 * 本日お話しした内容を実行したり、進展させたりするにはどうすればよいですか?
+* 機会が与えられたら本当にやりたいプロジェクトはありますか?
 * 次に取り組みたい興味のあるプロジェクトは何ですか?
 * 次の6か月-12か月で達成したい職業上の目標は何ですか?
 * 次の仕事で何をしたいですか?
+* 現在、どのようなトレーニングや経験があなたにとって最も役立つでしょうか?
 * 理想的なポジションを確率する場合、現在行っていることとどのように違いますか?
 * 目標を特定して明確にするために:何を達成したいですか? あなたはそれを達成するために何をしますか? いつやりますか? 誰が関与する必要がありますか? 結果はいつわかりますか?
 * 目標を達成するために必要なツールはありますか?
 * 目標を達成するにはどのようなスキルが必要ですか?
 * 社内の誰から学びたいですか?何を学びたいですか?
-* 長期的な目標は何ですか？それらについて考えましたか?
+* 私と最後に会ってから学んだ新しいことを教えてください。
+* 長期的な目標は何ですか?それらについて考えましたか?
 * 長期的な目標を達成するために今日できることは何ですか?
 
 
 ## Conversation starters
-* Are you on track to meet the deadline?
-* Hey, what’s going on?
-* How are you? How is life outside of work?
-* How are your parents/grandparents? Where do they live? Do you visit them?
-* How is your family?
-* How was your weekend?
-* How’s it going?
-* If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?
-* If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)
-* I’ve noticed you’re a little quieter than usual. Is there anything you’d like to talk about?
-* So, what’s on your mind? (or Anything on your mind?)
-* Tell me a story...
-* Tell me about anything you stumbled over.
+* ...の話を聞かせてください
+* Project Xの状況を私に教えてもらえますか?
 * Tell me about last week.
-* Tell me about what you’ve been working on.
-* Tell me about your family/weekend/ activities?
-* Tell me about your week – what’s it been like?
-* What can I do to make your day better?
-* What do you like to do in your free time? What are your hobbies?
 * What have you been doing for fun lately?
 * What would you like to focus on at this meeting?
-* What would you like to start with?
 * What's something I don't know, but should?
-* Who do you really admire? Why? (People often admire those they want to become)
-* Would you like to walk today, or go somewhere else outside the office?
-* Would you update me on Project X?
+* あなたがつまずいたものについて教えてください。
+* あなたが取り組んでいるものについて教えてください。
+* あなたの一日をより良くするために私は何ができますか?
+* あなたの両親/祖父母はお元気ですか? あなたの両親/祖父母はどこに住んでいますか? 訪問しますか?
+* あなたの家族/週末/活動について教えてもらえますか?
+* あなたの家族は元気ですか?
+* それで、あなたの心に何がありますか? (またはあなたの心に何かありますか?)
+* 今、何か起こっていますか?
+* 休日の場合：[祝日]を祝いますか? もしそうなら、私はあなたの計画を尋ねることができますか?
+* 何から始めますか?
+* 元気ですか? 仕事以外の生活はどうですか?
+* 子供がいる場合：[子供の名前]はどうですか? (学校を始める、スポーツをする、または他の興味のような彼らの年齢に関連した何かを尋ねてください。)
+* 散歩でもしますか、オフィスの外を軽く歩いてみます?
+* 時間がある時は何をしますか? 趣味は何ですか?
+* 期限に間に合うように順調に進んでいますか?
+* 本当に尊敬しているのは誰ですか? それはどうしてですか? (人々はしばしば彼らがなりたいと思うものを賞賛します)
+* 私はあなたがいつもより少し静かであることに気づきました。話したいことはありますか?
+* 第x週についてはどうでしたか?
+* 調子はどうですか?
+* 週末はどうでしたか?
 
 
 ## Job satisfaction

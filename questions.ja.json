@@ -190,7 +190,7 @@
   },
   {
     "id": 334,
-    "question": "私はマネージャーとして改善したいと思っていて。本当にあなたには助けになっています。来週、私はあなたのマネージャーとしてより良くできると思う1つから2つのことについて、いくつかのフィードバックするとしたら受け入れてくれますか?",
+    "question": "私はマネージャーとして改善したいと思っていて、本当にあなたには助けになっています。来週、私はあなたのマネージャーとしてより良くできると思う1つから2つのことについて、いくつかのフィードバックするとしたら受け入れてくれますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.028Z",
     "updated_at": "2017-11-18T14:26:14.028Z"
@@ -253,7 +253,7 @@
   },
   {
     "id": 344,
-    "question": "あなたを助けるために私にできること?",
+    "question": "あなたを助けるために私にできることはありますか?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.084Z",
     "updated_at": "2017-11-18T14:26:14.084Z"
@@ -323,7 +323,7 @@
   },
   {
     "id": 358,
-    "question": "長期的な目標は何ですか？それらについて考えましたか?",
+    "question": "長期的な目標は何ですか?それらについて考えましたか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.155Z",
     "updated_at": "2017-11-18T14:26:14.155Z"
@@ -631,259 +631,259 @@
   },
   {
     "id": 404,
-    "question": "Are there any projects you\u2019d really like to work on if you were given the opportunity?",
+    "question": "機会が与えられたら本当にやりたいプロジェクトはありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.425Z",
     "updated_at": "2017-11-18T14:26:14.425Z"
   },
   {
     "id": 405,
-    "question": "What parts of your job would you like to deepen your skills in or get additional training in?",
+    "question": "仕事のどの分野でスキルを深めたり、追加のトレーニングを受けたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.436Z",
     "updated_at": "2017-11-18T14:26:14.436Z"
   },
   {
     "id": 406,
-    "question": "Is there an aspect of your job you would like more help or coaching?",
+    "question": "あなたの仕事の中で、もっと助けやコーチングが必要な面はありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.439Z",
     "updated_at": "2017-11-18T14:26:14.439Z"
   },
   {
     "id": 407,
-    "question": "What areas of your job do you find difficult that getting better skills at would help?",
+    "question": "あなたの仕事のどの分野が難しいと思いますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.451Z",
     "updated_at": "2017-11-18T14:26:14.451Z"
   },
   {
     "id": 408,
-    "question": "What skills do you have that you think are underutilized?",
+    "question": "十分に活用されていないと思うスキルはありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.453Z",
     "updated_at": "2017-11-18T14:26:14.453Z"
   },
   {
     "id": 409,
-    "question": "What capabilities do you want to develop?",
+    "question": "どの能力を伸ばしたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.456Z",
     "updated_at": "2017-11-18T14:26:14.456Z"
   },
   {
     "id": 410,
-    "question": "Tell me about something new you learned since we met last.",
+    "question": "私と最後に会ってから学んだ新しいことを教えてください。",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.459Z",
     "updated_at": "2017-11-18T14:26:14.459Z"
   },
   {
     "id": 411,
-    "question": "What opportunities have you had recently to learn something new?",
+    "question": "最近何か新しいことを学ぶ機会はありましたか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.473Z",
     "updated_at": "2017-11-18T14:26:14.473Z"
   },
   {
     "id": 412,
-    "question": "What would you like to learn about in the future?",
+    "question": "今後、何について学びたいですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.476Z",
     "updated_at": "2017-11-18T14:26:14.476Z"
   },
   {
     "id": 413,
-    "question": "What kind of training or experience would be most helpful to you right now?",
+    "question": "現在、どのようなトレーニングや経験があなたにとって最も役立つでしょうか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.479Z",
     "updated_at": "2017-11-18T14:26:14.479Z"
   },
   {
     "id": 414,
-    "question": "What do you see as the next step in your career?",
+    "question": "あなたのキャリアの次のステップは何だと思いますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.491Z",
     "updated_at": "2017-11-18T14:26:14.491Z"
   },
   {
     "id": 415,
-    "question": "What goals have you set for your career?",
+    "question": "キャリアについてどのような目標を設定していますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.494Z",
     "updated_at": "2017-11-18T14:26:14.494Z"
   },
   {
     "id": 416,
-    "question": "How do you feel you are progressing in your career?",
+    "question": "あなたのキャリアはどのように進んでいると思いますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.497Z",
     "updated_at": "2017-11-18T14:26:14.497Z"
   },
   {
     "id": 417,
-    "question": "What big questions do you have about your career opportunities in the future?",
+    "question": "将来のキャリアの機会について、何か大きな懸念はありますか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.499Z",
     "updated_at": "2017-11-18T14:26:14.499Z"
   },
   {
     "id": 418,
-    "question": "What are your goals (for our group for you personally)",
+    "question": "(私たちのグループにとって、もしくは、あなたの個人的な)あなたの目標は何ですか?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.510Z",
     "updated_at": "2017-11-18T14:26:14.510Z"
   },
   {
     "id": 419,
-    "question": "Tell me a story...",
+    "question": "...の話を聞かせてください",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.513Z",
     "updated_at": "2017-11-18T14:26:14.513Z"
   },
   {
     "id": 420,
-    "question": "How are you? How is life outside of work?",
+    "question": "元気ですか? 仕事以外の生活はどうですか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.516Z",
     "updated_at": "2017-11-18T14:26:14.516Z"
   },
   {
     "id": 421,
-    "question": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?",
+    "question": "休日の場合：[祝日]を祝いますか? もしそうなら、私はあなたの計画を尋ねることができますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.529Z",
     "updated_at": "2017-11-18T14:26:14.529Z"
   },
   {
     "id": 422,
-    "question": "How are your parents\/grandparents? Where do they live? Do you visit them?",
+    "question": "あなたの両親/祖父母はお元気ですか? あなたの両親/祖父母はどこに住んでいますか? 訪問しますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.531Z",
     "updated_at": "2017-11-18T14:26:14.531Z"
   },
   {
     "id": 423,
-    "question": "If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)",
+    "question": "子供がいる場合：[子供の名前]はどうですか? (学校を始める、スポーツをする、または他の興味のような彼らの年齢に関連した何かを尋ねてください。)",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.533Z",
     "updated_at": "2017-11-18T14:26:14.533Z"
   },
   {
     "id": 424,
-    "question": "What do you like to do in your free time? What are your hobbies?",
+    "question": "時間がある時は何をしますか? 趣味は何ですか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.545Z",
     "updated_at": "2017-11-18T14:26:14.545Z"
   },
   {
     "id": 425,
-    "question": "Who do you really admire? Why? (People often admire those they want to become)",
+    "question": "本当に尊敬しているのは誰ですか? それはどうしてですか? (人々はしばしば彼らがなりたいと思うものを賞賛します)",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.547Z",
     "updated_at": "2017-11-18T14:26:14.547Z"
   },
   {
     "id": 426,
-    "question": "Tell me about what you\u2019ve been working on.",
+    "question": "あなたが取り組んでいるものについて教えてください。",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.550Z",
     "updated_at": "2017-11-18T14:26:14.550Z"
   },
   {
     "id": 427,
-    "question": "Tell me about your week \u2013 what\u2019s it been like?",
+    "question": "第x週についてはどうでしたか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.561Z",
     "updated_at": "2017-11-18T14:26:14.561Z"
   },
   {
     "id": 428,
-    "question": "Tell me about your family\/weekend\/ activities?",
+    "question": "あなたの家族/週末/活動について教えてもらえますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.564Z",
     "updated_at": "2017-11-18T14:26:14.564Z"
   },
   {
     "id": 429,
-    "question": "Tell me about anything you stumbled over.",
+    "question": "あなたがつまずいたものについて教えてください。",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.566Z",
     "updated_at": "2017-11-18T14:26:14.566Z"
   },
   {
     "id": 430,
-    "question": "Would you update me on Project X?",
+    "question": "Project Xの状況を私に教えてもらえますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.579Z",
     "updated_at": "2017-11-18T14:26:14.579Z"
   },
   {
     "id": 431,
-    "question": "Are you on track to meet the deadline?",
+    "question": "期限に間に合うように順調に進んでいますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.581Z",
     "updated_at": "2017-11-18T14:26:14.581Z"
   },
   {
     "id": 432,
-    "question": "How is your family?",
+    "question": "あなたの家族は元気ですか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.584Z",
     "updated_at": "2017-11-18T14:26:14.584Z"
   },
   {
     "id": 433,
-    "question": "How was your weekend?",
+    "question": "週末はどうでしたか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.586Z",
     "updated_at": "2017-11-18T14:26:14.586Z"
   },
   {
     "id": 435,
-    "question": "How\u2019s it going?",
+    "question": "調子はどうですか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.601Z",
     "updated_at": "2017-11-18T14:26:14.601Z"
   },
   {
     "id": 436,
-    "question": "So, what\u2019s on your mind? (or Anything on your mind?)",
+    "question": "それで、あなたの心に何がありますか? (またはあなたの心に何かありますか?)",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.604Z",
     "updated_at": "2017-11-18T14:26:14.604Z"
   },
   {
     "id": 437,
-    "question": "What would you like to start with?",
+    "question": "何から始めますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.618Z",
     "updated_at": "2017-11-18T14:26:14.618Z"
   },
   {
     "id": 438,
-    "question": "Hey, what\u2019s going on?",
+    "question": "今、何か起こっていますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.621Z",
     "updated_at": "2017-11-18T14:26:14.621Z"
   },
   {
     "id": 439,
-    "question": "Would you like to walk today, or go somewhere else outside the office?",
+    "question": "散歩でもしますか、オフィスの外を軽く歩いてみます?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.624Z",
     "updated_at": "2017-11-18T14:26:14.624Z"
   },
   {
     "id": 440,
-    "question": "I\u2019ve noticed you\u2019re a little quieter than usual. Is there anything you\u2019d like to talk about?",
+    "question": "私はあなたがいつもより少し静かであることに気づきました。話したいことはありますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.626Z",
     "updated_at": "2017-11-18T14:26:14.626Z"
   },
   {
     "id": 441,
-    "question": "What can I do to make your day better?",
+    "question": "あなたの一日をより良くするために私は何ができますか?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.637Z",
     "updated_at": "2017-11-18T14:26:14.637Z"
