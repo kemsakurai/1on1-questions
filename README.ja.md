@@ -116,14 +116,13 @@ Ultimate list compiled from a variety to sources
 ## Conversation starters
 * ...の話を聞かせてください
 * Project Xの状況を私に教えてもらえますか?
-* What have you been doing for fun lately?
-* What would you like to focus on at this meeting?
 * あなたがつまずいたものについて教えてください。
 * あなたが取り組んでいるものについて教えてください。
 * あなたの一日をより良くするために私は何ができますか?
 * あなたの両親/祖父母はお元気ですか? あなたの両親/祖父母はどこに住んでいますか? 訪問しますか?
 * あなたの家族/週末/活動について教えてもらえますか?
 * あなたの家族は元気ですか?
+* この1on1で何に焦点を当てたいですか?
 * それで、あなたの心に何がありますか? (またはあなたの心に何かありますか?)
 * 今、何か起こっていますか?
 * 休日の場合：[祝日]を祝いますか? もしそうなら、私はあなたの計画を尋ねることができますか?
@@ -133,6 +132,7 @@ Ultimate list compiled from a variety to sources
 * 子供がいる場合：[子供の名前]はどうですか? (学校を始める、スポーツをする、または他の興味のような彼らの年齢に関連した何かを尋ねてください。)
 * 散歩でもしますか、オフィスの外を軽く歩いてみます?
 * 時間がある時は何をしますか? 趣味は何ですか?
+* 最近楽しみのために何をしていますか?
 * 期限に間に合うように順調に進んでいますか?
 * 本当に尊敬しているのは誰ですか? それはどうしてですか? (人々はしばしば彼らがなりたいと思うものを賞賛します)
 * 私にはわかりませんが、どうすべきでしょうか?
@@ -146,7 +146,6 @@ Ultimate list compiled from a variety to sources
 * Are you happy here? What makes you say that?
 * Are you happy with your recent work? Why or why not?
 * Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
-* Do you feel challenged at work? Are you learning new things?
 * Do you feel like you're growing in your role? What makes you say that?
 * Do you feel over-worked, under-worked, or just the right workload?
 * Do you think our company is loyal to its employees? Why or why not?
@@ -155,10 +154,8 @@ Ultimate list compiled from a variety to sources
 * How are you feeling about your role?
 * How did that affect you?
 * How did that make you feel?
-* How do you feel your work/life balance is right now?
 * How do you think of your current workload and how are you coping with them?
 * How do you think that least favorite thing affects your overall performance?
-* How many hours a day do you feel you’re productive? How could we help you be more productive?
 * If you could change what happened, how would you alter it?
 * If you could work on anything for the next month, what would it be? What makes you say that?
 * In our last 1-on-1 you mentioned that you’d like to grow in X — how has that been going?
@@ -170,7 +167,6 @@ Ultimate list compiled from a variety to sources
 * What are you most worried about?
 * What are your biggest concerns about your current project(s)?
 * What aspect of this project has been particularly interesting for you?
-* What could I do to make you enjoy your work more?
 * What did you like most/least about that?
 * What do you enjoy the most in your current role?
 * What do you feel is your greatest accomplishment here?
@@ -182,7 +178,6 @@ Ultimate list compiled from a variety to sources
 * What do you think caused that to happen?
 * What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?
 * What do you think you could be doing differently?
-* What drives you? What motivates you to come to work each day?
 * What feedback/praises have you been getting about your current priorities?
 * What frustrates you about the project?
 * What have you tried so far to make progress on it?
@@ -193,8 +188,6 @@ Ultimate list compiled from a variety to sources
 * What would be the most helpful thing for you to take away from this conversation in order to make progress on it?
 * What would convince you to leave for a job somewhere else?
 * What would make you leave this job for another?
-* What’s a recent situation you wish you handled differently? What would you change?
-* What’s an area of your work you want to improve?
 * What’s one thing about your job that, if we fixed, would make you never want to leave?
 * What’s one thing that could make your work more satisfying, and why?
 * What’s the best part of your job?
@@ -205,6 +198,13 @@ Ultimate list compiled from a variety to sources
 * Which areas make you feel like your hands are tied or you are unable to reach your full potential?
 * Which areas would you like to spend more time on and why?
 * Which parts of your project are unclear or confusing?
+* あなたの生産性は正味1日何時間ですか? どのようにして生産性を向上させることができますか?
+* 今の仕事のワークライフバランスはどうだと思いますか?
+* 仕事に挑戦していると感じますか? 新しいことを学んでいますか?
+* 仕事をもっと楽しくするために何ができますか?
+* 何があなたを動かしますか? 毎日仕事に来るきっかけは何ですか?
+* 改善したい仕事の分野は何ですか?
+* 最近、どのように対処したいと思いますか? 何を変えますか?
 
 
 ## Other 
