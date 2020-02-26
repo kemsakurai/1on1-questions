@@ -144,11 +144,8 @@ Ultimate list compiled from a variety to sources
 
 ## Job satisfaction
 * Are you happy here? What makes you say that?
-* Are you happy with your recent work? Why or why not?
 * Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
 * Do you feel like you're growing in your role? What makes you say that?
-* Do you feel over-worked, under-worked, or just the right workload?
-* Do you think our company is loyal to its employees? Why or why not?
 * Happiness level, 1 to 10?
 * How are you feeling about the project?
 * How are you feeling about your role?
@@ -162,18 +159,12 @@ Ultimate list compiled from a variety to sources
 * In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?
 * In what ways does your current position allow you to use your skills and talents?
 * I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
-* Tell me about what you’ve learned on this project.
-* What are you most excited about?
 * What are you most worried about?
 * What are your biggest concerns about your current project(s)?
 * What aspect of this project has been particularly interesting for you?
 * What did you like most/least about that?
 * What do you enjoy the most in your current role?
-* What do you feel is your greatest accomplishment here?
 * What do you feel like you're learning from this project?
-* What do you like most about working on our team?
-* What do you like most about your job today?
-* What do you like the least?
 * What do you need or want to accomplish and by when?
 * What do you think caused that to happen?
 * What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?
@@ -186,25 +177,34 @@ Ultimate list compiled from a variety to sources
 * What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
 * What was that experience like for you?
 * What would be the most helpful thing for you to take away from this conversation in order to make progress on it?
-* What would convince you to leave for a job somewhere else?
-* What would make you leave this job for another?
-* What’s one thing about your job that, if we fixed, would make you never want to leave?
 * What’s one thing that could make your work more satisfying, and why?
 * What’s the best part of your job?
 * What’s the worst part about your job?
 * What’s working well for you in your current position?
 * What’s your No. 1 problem right now? How are you feeling about it?
-* When was the time you enjoyed working here the most?
 * Which areas make you feel like your hands are tied or you are unable to reach your full potential?
 * Which areas would you like to spend more time on and why?
 * Which parts of your project are unclear or confusing?
+* あなたの仕事について、私たちが変化するとしたなら、あなたが決して辞めたくなくなる1つのことは何ですか?
 * あなたの生産性は正味1日何時間ですか? どのようにして生産性を向上させることができますか?
+* ここでのあなたの最大の成果は何だと思いますか?
+* ここで仕事を楽しんだ時間はいつでしたか?
+* このプロジェクトで学んだことを教えてください。
+* この仕事を辞め、別の仕事をする理由は何ですか?
 * 今の仕事のワークライフバランスはどうだと思いますか?
+* 今日の仕事で一番好きなことは何ですか?
 * 仕事に挑戦していると感じますか? 新しいことを学んでいますか?
 * 仕事をもっと楽しくするために何ができますか?
+* 他の場所に就職する理由は何ですか?
 * 何があなたを動かしますか? 毎日仕事に来るきっかけは何ですか?
+* 何が一番好きですか?
+* 何に一番興奮していますか?
+* 当社は従業員に忠実だと思いますか？ なぜそう思いますか?/なぜそう思いませんか?
 * 改善したい仕事の分野は何ですか?
 * 最近、どのように対処したいと思いますか? 何を変えますか?
+* 最近の仕事に満足していますか? なぜ満足していますか?/なぜ満足していませんか?
+* 私たちのチームで働くことについて一番好きなことは何ですか?
+* 過労、過小、または適切なワークロードを感じていますか?
 
 
 ## Other 
