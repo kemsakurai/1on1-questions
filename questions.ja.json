@@ -1058,49 +1058,49 @@
   },
   {
     "id": 467,
-    "question": "What are you most worried about?",
+    "question": "何が一番心配ですか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.779Z",
     "updated_at": "2017-11-18T14:26:14.779Z"
   },
   {
     "id": 468,
-    "question": "How do you think of your current workload and how are you coping with them?",
+    "question": "現在の仕事量をどのように考え、どのように対処していますか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.782Z",
     "updated_at": "2017-11-18T14:26:14.782Z"
   },
   {
     "id": 469,
-    "question": "What do you need or want to accomplish and by when?",
+    "question": "いつまでに何を達成したいのですか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.784Z",
     "updated_at": "2017-11-18T14:26:14.784Z"
   },
   {
     "id": 470,
-    "question": "What feedback\/praises have you been getting about your current priorities?",
+    "question": "現在の優先事項についてどのようなフィードバックや賞賛を得ていますか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.799Z",
     "updated_at": "2017-11-18T14:26:14.799Z"
   },
   {
     "id": 471,
-    "question": "How are you feeling about your role?",
+    "question": "あなたの役割についてどう思いますか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.802Z",
     "updated_at": "2017-11-18T14:26:14.802Z"
   },
   {
     "id": 472,
-    "question": "Are you happy here? What makes you say that?",
+    "question": "ここで幸せですか? 幸せな理由は何ですか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.805Z",
     "updated_at": "2017-11-18T14:26:14.805Z"
   },
   {
     "id": 473,
-    "question": "Do you feel like you're growing in your role? What makes you say that?",
+    "question": "あなたは自分の役割で成長していると感じていますか? 成長している理由は何ですか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.817Z",
     "updated_at": "2017-11-18T14:26:14.817Z"

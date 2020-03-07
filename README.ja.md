@@ -143,15 +143,11 @@ Ultimate list compiled from a variety to sources
 
 
 ## Job satisfaction
-* Are you happy here? What makes you say that?
 * Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
-* Do you feel like you're growing in your role? What makes you say that?
 * Happiness level, 1 to 10?
 * How are you feeling about the project?
-* How are you feeling about your role?
 * How did that affect you?
 * How did that make you feel?
-* How do you think of your current workload and how are you coping with them?
 * How do you think that least favorite thing affects your overall performance?
 * If you could change what happened, how would you alter it?
 * If you could work on anything for the next month, what would it be? What makes you say that?
@@ -159,17 +155,14 @@ Ultimate list compiled from a variety to sources
 * In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?
 * In what ways does your current position allow you to use your skills and talents?
 * I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
-* What are you most worried about?
 * What are your biggest concerns about your current project(s)?
 * What aspect of this project has been particularly interesting for you?
 * What did you like most/least about that?
 * What do you enjoy the most in your current role?
 * What do you feel like you're learning from this project?
-* What do you need or want to accomplish and by when?
 * What do you think caused that to happen?
 * What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?
 * What do you think you could be doing differently?
-* What feedback/praises have you been getting about your current priorities?
 * What frustrates you about the project?
 * What have you tried so far to make progress on it?
 * What interests you about the project(s) you’re currently working on, and why?
@@ -186,9 +179,13 @@ Ultimate list compiled from a variety to sources
 * Which areas would you like to spend more time on and why?
 * Which parts of your project are unclear or confusing?
 * あなたの仕事について、私たちが変化するとしたなら、あなたが決して辞めたくなくなる1つのことは何ですか?
+* あなたの役割についてどう思いますか?
 * あなたの生産性は正味1日何時間ですか? どのようにして生産性を向上させることができますか?
+* あなたは自分の役割で成長していると感じていますか? 成長している理由は何ですか?
+* いつまでに何を達成したいのですか?
 * ここでのあなたの最大の成果は何だと思いますか?
 * ここで仕事を楽しんだ時間はいつでしたか?
+* ここで幸せですか? 幸せな理由は何ですか?
 * このプロジェクトで学んだことを教えてください。
 * この仕事を辞め、別の仕事をする理由は何ですか?
 * 今の仕事のワークライフバランスはどうだと思いますか?
@@ -198,11 +195,14 @@ Ultimate list compiled from a variety to sources
 * 他の場所に就職する理由は何ですか?
 * 何があなたを動かしますか? 毎日仕事に来るきっかけは何ですか?
 * 何が一番好きですか?
+* 何が一番心配ですか?
 * 何に一番興奮していますか?
 * 当社は従業員に忠実だと思いますか？ なぜそう思いますか?/なぜそう思いませんか?
 * 改善したい仕事の分野は何ですか?
 * 最近、どのように対処したいと思いますか? 何を変えますか?
 * 最近の仕事に満足していますか? なぜ満足していますか?/なぜ満足していませんか?
+* 現在の仕事量をどのように考え、どのように対処していますか?
+* 現在の優先事項についてどのようなフィードバックや賞賛を得ていますか?
 * 私たちのチームで働くことについて一番好きなことは何ですか?
 * 過労、過小、または適切なワークロードを感じていますか?
 
