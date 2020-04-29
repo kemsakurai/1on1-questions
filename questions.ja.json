@@ -1107,42 +1107,42 @@
   },
   {
     "id": 474,
-    "question": "What interests you about the project(s) you\u2019re currently working on, and why?",
+    "question": "現在取り組んでいるプロジェクトについて、どのようなことに興味を持っていますか? その理由は何ですか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.820Z",
     "updated_at": "2017-11-18T14:26:14.820Z"
   },
   {
     "id": 475,
-    "question": "What is your favorite\/least favorite thing about your work right now?",
+    "question": "現在、あなたの仕事でやっていることで、最も好きなもの、最も嫌いなものは何ですか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.823Z",
     "updated_at": "2017-11-18T14:26:14.823Z"
   },
   {
     "id": 476,
-    "question": "How do you think that least favorite thing affects your overall performance?",
+    "question": "仕事で最も嫌いなことがあなたの全体的なパフォーマンスにどのように影響すると思いますか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.837Z",
     "updated_at": "2017-11-18T14:26:14.837Z"
   },
   {
     "id": 477,
-    "question": "What\u2019s working well for you in your current position?",
+    "question": "現在のポジションで何がうまくいきますか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.840Z",
     "updated_at": "2017-11-18T14:26:14.840Z"
   },
   {
     "id": 478,
-    "question": "In what ways does your current position allow you to use your skills and talents?",
+    "question": "あなたの現在の地位があることは、どのようにあなたのスキルと才能を使うことを可能にしていますか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.847Z",
     "updated_at": "2017-11-18T14:26:14.847Z"
   },
   {
     "id": 479,
-    "question": "Which areas make you feel like your hands are tied or you are unable to reach your full potential?",
+    "question": "手が縛られているように感じたり、自分の可能性を最大限に引き出せなかったりするのはどの領域ですか?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.859Z",
     "updated_at": "2017-11-18T14:26:14.859Z"

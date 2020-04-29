@@ -148,12 +148,10 @@ Ultimate list compiled from a variety to sources
 * How are you feeling about the project?
 * How did that affect you?
 * How did that make you feel?
-* How do you think that least favorite thing affects your overall performance?
 * If you could change what happened, how would you alter it?
 * If you could work on anything for the next month, what would it be? What makes you say that?
 * In our last 1-on-1 you mentioned that you’d like to grow in X — how has that been going?
 * In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?
-* In what ways does your current position allow you to use your skills and talents?
 * I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
 * What are your biggest concerns about your current project(s)?
 * What aspect of this project has been particularly interesting for you?
@@ -165,21 +163,18 @@ Ultimate list compiled from a variety to sources
 * What do you think you could be doing differently?
 * What frustrates you about the project?
 * What have you tried so far to make progress on it?
-* What interests you about the project(s) you’re currently working on, and why?
-* What is your favorite/least favorite thing about your work right now?
 * What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
 * What was that experience like for you?
 * What would be the most helpful thing for you to take away from this conversation in order to make progress on it?
 * What’s one thing that could make your work more satisfying, and why?
 * What’s the best part of your job?
 * What’s the worst part about your job?
-* What’s working well for you in your current position?
 * What’s your No. 1 problem right now? How are you feeling about it?
-* Which areas make you feel like your hands are tied or you are unable to reach your full potential?
 * Which areas would you like to spend more time on and why?
 * Which parts of your project are unclear or confusing?
 * あなたの仕事について、私たちが変化するとしたなら、あなたが決して辞めたくなくなる1つのことは何ですか?
 * あなたの役割についてどう思いますか?
+* あなたの現在の地位があることは、どのようにあなたのスキルと才能を使うことを可能にしていますか?
 * あなたの生産性は正味1日何時間ですか? どのようにして生産性を向上させることができますか?
 * あなたは自分の役割で成長していると感じていますか? 成長している理由は何ですか?
 * いつまでに何を達成したいのですか?
@@ -190,6 +185,7 @@ Ultimate list compiled from a variety to sources
 * この仕事を辞め、別の仕事をする理由は何ですか?
 * 今の仕事のワークライフバランスはどうだと思いますか?
 * 今日の仕事で一番好きなことは何ですか?
+* 仕事で最も嫌いなことがあなたの全体的なパフォーマンスにどのように影響すると思いますか?
 * 仕事に挑戦していると感じますか? 新しいことを学んでいますか?
 * 仕事をもっと楽しくするために何ができますか?
 * 他の場所に就職する理由は何ですか?
@@ -198,11 +194,15 @@ Ultimate list compiled from a variety to sources
 * 何が一番心配ですか?
 * 何に一番興奮していますか?
 * 当社は従業員に忠実だと思いますか？ なぜそう思いますか?/なぜそう思いませんか?
+* 手が縛られているように感じたり、自分の可能性を最大限に引き出せなかったりするのはどの領域ですか?
 * 改善したい仕事の分野は何ですか?
 * 最近、どのように対処したいと思いますか? 何を変えますか?
 * 最近の仕事に満足していますか? なぜ満足していますか?/なぜ満足していませんか?
+* 現在、あなたの仕事でやっていることで、最も好きなもの、最も嫌いなものは何ですか?
+* 現在のポジションで何がうまくいきますか?
 * 現在の仕事量をどのように考え、どのように対処していますか?
 * 現在の優先事項についてどのようなフィードバックや賞賛を得ていますか?
+* 現在取り組んでいるプロジェクトについて、どのようなことに興味を持っていますか? その理由は何ですか?
 * 私たちのチームで働くことについて一番好きなことは何ですか?
 * 過労、過小、または適切なワークロードを感じていますか?
 
